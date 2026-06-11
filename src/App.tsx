@@ -92,7 +92,6 @@ export default function ClinicWebsite() {
     <div className="min-h-screen bg-white font-sans text-gray-800" style={{ fontFamily: "'DM Sans', 'Segoe UI', sans-serif" }}>
 
       {/* ── NAV ── */}
-      
 
       {/* ── HERO ── */}
        <LandingPage />
