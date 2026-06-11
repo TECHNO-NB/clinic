@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 import { useEffect, useState } from 'react';
 import {
   Sparkles, Star

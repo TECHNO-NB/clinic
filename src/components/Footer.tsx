@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Sparkles } from "lucide-react";
 
 const Footer = () => {

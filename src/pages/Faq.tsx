@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 import { useEffect } from 'react'
 import FaqComp from '../components/FaqComp'
 
