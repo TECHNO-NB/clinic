@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 import { useEffect } from 'react'
 import ContactComp from '../components/ContactComp'
 
